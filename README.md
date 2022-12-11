@@ -1,2 +1,2 @@
 # flipper-zero-music
-My music for Flipper Zero / La mia musica per Flipper Zero
+My music for the Flipper Zero / La mia musica per Flipper Zero
